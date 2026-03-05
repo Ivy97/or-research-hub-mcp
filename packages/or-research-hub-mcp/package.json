@@ -1,0 +1,24 @@
+﻿{
+  "name": "@ivy97/or-research-hub-mcp",
+  "version": "0.1.0",
+  "description": "OR Research Hub MCP server for journal subscription, search and SAR briefs.",
+  "main": "server.cjs",
+  "type": "commonjs",
+  "bin": {
+    "or-research-hub-mcp": "server.cjs"
+  },
+  "scripts": {
+    "start": "node server.cjs",
+    "dev": "node server.cjs",
+    "lint": "node --check server.cjs",
+    "test:smoke": "node ./scripts/smoke-test.cjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "rss-parser": "^3.13.0",
+    "zod": "^4.3.6"
+  }
+}

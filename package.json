@@ -1,0 +1,18 @@
+﻿{
+  "name": "or-research-hub-mcp-monorepo",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Monorepo for OR Research Hub MCP server.",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "npm run -w @ivy97/or-research-hub-mcp start",
+    "dev": "npm run -w @ivy97/or-research-hub-mcp dev",
+    "lint": "npm run -w @ivy97/or-research-hub-mcp lint",
+    "test:smoke": "npm run -w @ivy97/or-research-hub-mcp test:smoke"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

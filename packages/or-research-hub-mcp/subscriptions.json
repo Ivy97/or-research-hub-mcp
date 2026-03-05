@@ -1,0 +1,165 @@
+{
+  "subscriptions": [
+    {
+      "id": "tr-part-b",
+      "name": "Transportation Research Part B",
+      "group": "Elsevier",
+      "enabled": true,
+      "url": "https://rss.sciencedirect.com/publication/science/01912615"
+    },
+    {
+      "id": "tr-part-e",
+      "name": "Transportation Research Part E",
+      "group": "Elsevier",
+      "enabled": true,
+      "url": "https://rss.sciencedirect.com/publication/science/13665545"
+    },
+    {
+      "id": "ejor",
+      "name": "European Journal of Operational Research",
+      "group": "Elsevier",
+      "enabled": true,
+      "url": "https://rss.sciencedirect.com/publication/science/03772217"
+    },
+    {
+      "id": "omega",
+      "name": "Omega",
+      "group": "Elsevier",
+      "enabled": true,
+      "url": "https://rss.sciencedirect.com/publication/science/03050483"
+    },
+    {
+      "id": "ress",
+      "name": "Reliability Engineering and System Safety",
+      "group": "Elsevier",
+      "enabled": true,
+      "url": "https://rss.sciencedirect.com/publication/science/09518320"
+    },
+    {
+      "id": "caie",
+      "name": "Computers and Industrial Engineering",
+      "group": "Elsevier",
+      "enabled": true,
+      "url": "https://rss.sciencedirect.com/publication/science/03608352"
+    },
+    {
+      "id": "cor",
+      "name": "Computers and Operations Research",
+      "group": "Elsevier",
+      "enabled": true,
+      "url": "https://rss.sciencedirect.com/publication/science/03050548"
+    },
+    {
+      "id": "ijpe",
+      "name": "International Journal of Production Economics",
+      "group": "Elsevier",
+      "enabled": true,
+      "url": "https://rss.sciencedirect.com/publication/science/09255273"
+    },
+    {
+      "id": "jom",
+      "name": "OR Spectrum",
+      "group": "Springer",
+      "enabled": true,
+      "url": "https://link.springer.com/search.rss?facet-journal-id=291"
+    },
+    {
+      "id": "tro-elsevier",
+      "name": "Journal of Heuristics",
+      "group": "Springer",
+      "enabled": true,
+      "url": "https://link.springer.com/search.rss?facet-journal-id=10732"
+    },
+    {
+      "id": "management-science",
+      "name": "Management Science",
+      "group": "INFORMS",
+      "enabled": true,
+      "url": "https://pubsonline.informs.org/action/showFeed?jc=mnsc&type=etoc"
+    },
+    {
+      "id": "operations-research",
+      "name": "Operations Research",
+      "group": "INFORMS",
+      "enabled": true,
+      "url": "https://pubsonline.informs.org/action/showFeed?jc=opre&type=etoc"
+    },
+    {
+      "id": "transportation-science",
+      "name": "Transportation Science",
+      "group": "INFORMS",
+      "enabled": true,
+      "url": "https://pubsonline.informs.org/action/showFeed?jc=trsc&type=etoc"
+    },
+    {
+      "id": "msom",
+      "name": "Manufacturing and Service Operations Management",
+      "group": "INFORMS",
+      "enabled": true,
+      "url": "https://pubsonline.informs.org/action/showFeed?jc=msom&type=etoc"
+    },
+    {
+      "id": "poms",
+      "name": "Journal of Optimization Theory and Applications",
+      "group": "Springer",
+      "enabled": true,
+      "url": "https://link.springer.com/search.rss?facet-journal-id=10957"
+    },
+    {
+      "id": "organization-science",
+      "name": "Organization Science",
+      "group": "INFORMS",
+      "enabled": true,
+      "url": "https://pubsonline.informs.org/action/showFeed?jc=orsc&type=etoc"
+    },
+    {
+      "id": "informs-optimization",
+      "name": "INFORMS Journal on Optimization",
+      "group": "INFORMS",
+      "enabled": true,
+      "url": "https://pubsonline.informs.org/action/showFeed?jc=ijoo&type=etoc"
+    },
+    {
+      "id": "ieee-tits",
+      "name": "arXiv Robotics",
+      "group": "arXiv",
+      "enabled": true,
+      "url": "https://rss.arxiv.org/rss/cs.RO"
+    },
+    {
+      "id": "ieee-tii",
+      "name": "arXiv Artificial Intelligence",
+      "group": "arXiv",
+      "enabled": true,
+      "url": "https://rss.arxiv.org/rss/cs.AI"
+    },
+    {
+      "id": "ieee-tvt",
+      "name": "arXiv Mathematical Optimization",
+      "group": "arXiv",
+      "enabled": true,
+      "url": "https://rss.arxiv.org/rss/math.OC"
+    },
+    {
+      "id": "ijpr",
+      "name": "International Journal of Production Research",
+      "group": "Taylor and Francis",
+      "enabled": true,
+      "url": "https://www.tandfonline.com/action/showFeed?jc=tprs20&type=etoc"
+    },
+    {
+      "id": "iise-transactions",
+      "name": "IISE Transactions",
+      "group": "Taylor and Francis",
+      "enabled": true,
+      "url": "https://www.tandfonline.com/action/showFeed?jc=uiie21&type=etoc"
+    },
+    {
+      "id": "transport-reviews",
+      "name": "Transport Reviews",
+      "group": "Taylor and Francis",
+      "enabled": true,
+      "url": "https://www.tandfonline.com/action/showFeed?jc=ttrv20&type=etoc"
+    }
+  ]
+}

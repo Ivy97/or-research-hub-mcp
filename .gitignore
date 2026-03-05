@@ -1,0 +1,11 @@
+﻿node_modules/
+.cache/
+dist/
+.env
+*.log
+.DS_Store
+.vscode/
+packages/or-research-hub-mcp/cache.json
+packages/or-research-hub-mcp/paper_index.json
+packages/or-research-hub-mcp/daily_state.json
+packages/or-research-hub-mcp/reports/
