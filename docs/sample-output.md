@@ -16,7 +16,7 @@
   "today": "2026-03-05",
   "scanned": 0,
   "pushed": 0,
-  "filePath": "E:\\Desktop\\sanctions on job posting\\complete_process\\Daily_Pulse_OR_2026-03-05.md"
+  "filePath": "your_path/Daily_Pulse_OR_2026-03-05.md"
 }
 ```
 
