@@ -86,3 +86,9 @@ JSON 方式（`mcpServers`）：
 ## 说明
 - 各客户端 UI 名称与配置文件路径会随版本变化，但 `mcpServers` 的结构一致。
 - 建议先用 `node --check server.cjs` 和 `npm run test:smoke` 验证本地可运行。
+- 可直接复制 `docs/config-examples/` 下对应 JSON：
+  - `codex.mcp.json`
+  - `claude-code.mcp.json`
+  - `cherry-studio.mcp.json`
+  - `trae.mcp.json`
+  - `cursor.mcp.json`

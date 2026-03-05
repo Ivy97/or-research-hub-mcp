@@ -1,0 +1,10 @@
+﻿{
+  "mcpServers": {
+    "or-research-hub": {
+      "command": "node",
+      "args": [
+        "E:\\Desktop\\sanctions on job posting\\complete_process\\or-research-hub-mcp\\packages\\or-research-hub-mcp\\server.cjs"
+      ]
+    }
+  }
+}
