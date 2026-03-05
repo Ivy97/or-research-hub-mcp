@@ -230,7 +230,7 @@ Reference files are also provided under:
   "today": "2026-03-05",
   "scanned": 0,
   "pushed": 0,
-  "filePath": "your_path\Daily_Pulse_OR_2026-03-05.md"
+  "filePath": "your_path/Daily_Pulse_OR_2026-03-05.md"
 }
 ```
 
