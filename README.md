@@ -82,7 +82,7 @@ Main implementation:
 
 ## Configuration (Client Configs)
 Use the local absolute path of your server file:
-`E:\\Desktop\\sanctions on job posting\\complete_process\\or-research-hub-mcp\\packages\\or-research-hub-mcp\\server.cjs`
+`your_path\or-research-hub-mcp\packages\or-research-hub-mcp\server.cjs`
 
 ### Codex
 ```json
@@ -91,7 +91,7 @@ Use the local absolute path of your server file:
     "or-research-hub": {
       "command": "node",
       "args": [
-        "E:\\\\Desktop\\\\sanctions on job posting\\\\complete_process\\\\or-research-hub-mcp\\\\packages\\\\or-research-hub-mcp\\\\server.cjs"
+        "your_path\or-research-hub-mcp\packages\or-research-hub-mcp\server.cjs"
       ]
     }
   }
@@ -101,7 +101,7 @@ Use the local absolute path of your server file:
 ### Claude Code
 CLI:
 ```bash
-claude mcp add or-research-hub -- node "E:\\Desktop\\sanctions on job posting\\complete_process\\or-research-hub-mcp\\packages\\or-research-hub-mcp\\server.cjs"
+claude mcp add or-research-hub -- node "your_path\or-research-hub-mcp\packages\or-research-hub-mcp\server.cjs"
 ```
 
 JSON:
@@ -111,7 +111,7 @@ JSON:
     "or-research-hub": {
       "command": "node",
       "args": [
-        "E:\\\\Desktop\\\\sanctions on job posting\\\\complete_process\\\\or-research-hub-mcp\\\\packages\\\\or-research-hub-mcp\\\\server.cjs"
+        "your_path\or-research-hub-mcp\packages\or-research-hub-mcp\server.cjs"
       ]
     }
   }
@@ -125,7 +125,7 @@ JSON:
     "or-research-hub": {
       "command": "node",
       "args": [
-        "E:\\\\Desktop\\\\sanctions on job posting\\\\complete_process\\\\or-research-hub-mcp\\\\packages\\\\or-research-hub-mcp\\\\server.cjs"
+        "your_path\or-research-hub-mcp\packages\or-research-hub-mcp\server.cjs"
       ]
     }
   }
@@ -139,7 +139,7 @@ JSON:
     "or-research-hub": {
       "command": "node",
       "args": [
-        "E:\\\\Desktop\\\\sanctions on job posting\\\\complete_process\\\\or-research-hub-mcp\\\\packages\\\\or-research-hub-mcp\\\\server.cjs"
+        "your_path\or-research-hub-mcp\packages\or-research-hub-mcp\server.cjs"
       ]
     }
   }
@@ -153,7 +153,7 @@ JSON:
     "or-research-hub": {
       "command": "node",
       "args": [
-        "E:\\\\Desktop\\\\sanctions on job posting\\\\complete_process\\\\or-research-hub-mcp\\\\packages\\\\or-research-hub-mcp\\\\server.cjs"
+        "your_path\or-research-hub-mcp\packages\or-research-hub-mcp\server.cjs"
       ]
     }
   }
@@ -230,7 +230,7 @@ Reference files are also provided under:
   "today": "2026-03-05",
   "scanned": 0,
   "pushed": 0,
-  "filePath": "E:\\Desktop\\sanctions on job posting\\complete_process\\Daily_Pulse_OR_2026-03-05.md"
+  "filePath": "your_path\Daily_Pulse_OR_2026-03-05.md"
 }
 ```
 
