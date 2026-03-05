@@ -91,7 +91,7 @@ Use the local absolute path of your server file:
     "or-research-hub": {
       "command": "node",
       "args": [
-        "your_path\or-research-hub-mcp\packages\or-research-hub-mcp\server.cjs"
+        "your_path/or-research-hub-mcp/packages/or-research-hub-mcp/server.cjs"
       ]
     }
   }
@@ -101,7 +101,7 @@ Use the local absolute path of your server file:
 ### Claude Code
 CLI:
 ```bash
-claude mcp add or-research-hub -- node "your_path\or-research-hub-mcp\packages\or-research-hub-mcp\server.cjs"
+claude mcp add or-research-hub -- node "your_path/or-research-hub-mcp/packages/or-research-hub-mcp/server.cjs"
 ```
 
 JSON:
@@ -111,7 +111,7 @@ JSON:
     "or-research-hub": {
       "command": "node",
       "args": [
-        "your_path\or-research-hub-mcp\packages\or-research-hub-mcp\server.cjs"
+        "your_path/or-research-hub-mcp/packages/or-research-hub-mcp/server.cjs"
       ]
     }
   }
@@ -125,7 +125,7 @@ JSON:
     "or-research-hub": {
       "command": "node",
       "args": [
-        "your_path\or-research-hub-mcp\packages\or-research-hub-mcp\server.cjs"
+        "your_path/or-research-hub-mcp/packages/or-research-hub-mcp/server.cjs"
       ]
     }
   }
@@ -139,7 +139,7 @@ JSON:
     "or-research-hub": {
       "command": "node",
       "args": [
-        "your_path\or-research-hub-mcp\packages\or-research-hub-mcp\server.cjs"
+        "your_path/or-research-hub-mcp/packages/or-research-hub-mcp/server.cjs"
       ]
     }
   }
@@ -153,7 +153,7 @@ JSON:
     "or-research-hub": {
       "command": "node",
       "args": [
-        "your_path\or-research-hub-mcp\packages\or-research-hub-mcp\server.cjs"
+        "your_path/or-research-hub-mcp/packages/or-research-hub-mcp/server.cjs"
       ]
     }
   }
