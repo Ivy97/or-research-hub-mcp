@@ -1,7 +1,7 @@
 ﻿# Client Config Examples
 
 以下示例都以本仓库本地路径为例：
-`E:\\Desktop\\sanctions on job posting\\complete_process\\or-research-hub-mcp\\packages\\or-research-hub-mcp\\server.cjs`
+`your_path/or-research-hub-mcp/packages/or-research-hub-mcp/server.cjs`
 
 ## 1) Codex
 配置文件（示例）：
@@ -11,7 +11,7 @@
     "or-research-hub": {
       "command": "node",
       "args": [
-        "E:\\\\Desktop\\\\sanctions on job posting\\\\complete_process\\\\or-research-hub-mcp\\\\packages\\\\or-research-hub-mcp\\\\server.cjs"
+        "your_path/or-research-hub-mcp/packages/or-research-hub-mcp/server.cjs"
       ]
     }
   }
@@ -21,7 +21,7 @@
 ## 2) Claude Code
 命令方式：
 ```bash
-claude mcp add or-research-hub -- node "E:\\Desktop\\sanctions on job posting\\complete_process\\or-research-hub-mcp\\packages\\or-research-hub-mcp\\server.cjs"
+claude mcp add or-research-hub -- node "your_path/or-research-hub-mcp/packages/or-research-hub-mcp/server.cjs"
 ```
 
 JSON 方式（`mcpServers`）：
@@ -31,7 +31,7 @@ JSON 方式（`mcpServers`）：
     "or-research-hub": {
       "command": "node",
       "args": [
-        "E:\\\\Desktop\\\\sanctions on job posting\\\\complete_process\\\\or-research-hub-mcp\\\\packages\\\\or-research-hub-mcp\\\\server.cjs"
+        "your_path/or-research-hub-mcp/packages/or-research-hub-mcp/server.cjs"
       ]
     }
   }
@@ -46,7 +46,7 @@ JSON 方式（`mcpServers`）：
     "or-research-hub": {
       "command": "node",
       "args": [
-        "E:\\\\Desktop\\\\sanctions on job posting\\\\complete_process\\\\or-research-hub-mcp\\\\packages\\\\or-research-hub-mcp\\\\server.cjs"
+        "your_path/or-research-hub-mcp/packages/or-research-hub-mcp/server.cjs"
       ]
     }
   }
@@ -61,7 +61,7 @@ JSON 方式（`mcpServers`）：
     "or-research-hub": {
       "command": "node",
       "args": [
-        "E:\\\\Desktop\\\\sanctions on job posting\\\\complete_process\\\\or-research-hub-mcp\\\\packages\\\\or-research-hub-mcp\\\\server.cjs"
+        "your_path/or-research-hub-mcp/packages/or-research-hub-mcp/server.cjs"
       ]
     }
   }
@@ -76,7 +76,7 @@ JSON 方式（`mcpServers`）：
     "or-research-hub": {
       "command": "node",
       "args": [
-        "E:\\\\Desktop\\\\sanctions on job posting\\\\complete_process\\\\or-research-hub-mcp\\\\packages\\\\or-research-hub-mcp\\\\server.cjs"
+        "your_path/or-research-hub-mcp/packages/or-research-hub-mcp/server.cjs"
       ]
     }
   }
